@@ -1,0 +1,9 @@
+1, 1001, Do Anh Dung, 4000000, 21
+2, 1002, Le Anh Duc, 5000000, 21
+3, 1003, Ha Manh Cuong, 10000000, 21
+1, 1004, Nguyen Nhat Minh, 4000000, 21
+1, 1005, Ho Ngoc Ha, 15000000, 35
+2, 1006, Dam Vinh Hung, 10000000, 37
+3, 1007, Nguyen Tran Trung, 50000000, 21
+4, 2001, Pham Nhat Vuong, 1000000000, 40
+4, 2002, Nguyen Xuan Phuc, 1000000000, 50
